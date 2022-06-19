@@ -1,0 +1,26 @@
+body {
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#start {
+	height: 200px;
+	width: 400px;
+	border-radius: 50px;
+	background-color: seagreen;
+	color: #fff;
+	position: center;
+	vertical-align: middle;
+}
+
+#box {
+	height: 200px;
+	width: 200px;
+	background-color: red;
+	display: none;
+	position: relative;
+}
+
+#reaction {
+	font-weight: bold;
+	display: none;
+}
